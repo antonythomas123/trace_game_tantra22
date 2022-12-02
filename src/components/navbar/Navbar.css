@@ -1,0 +1,22 @@
+.navbar{
+    width: 100%;
+    height: 70px;
+    background-color: burlywood;
+    display: flex;
+    align-items: center;
+}
+.navbar_inside{
+    display: inline-block;
+    width: 100%;
+}
+.logo{
+    float: left;
+}
+.timer{
+    float: right;
+    margin-right: 2%;
+}
+span{
+    font-size: 25px;
+}
+
